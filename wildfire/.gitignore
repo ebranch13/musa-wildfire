@@ -1,0 +1,6 @@
+# Ignore everything inside the output folder
+data/raw/*
+data/processed/*
+scratch/test_outputs/*
+config.py
+
